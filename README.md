@@ -26,5 +26,5 @@ This project is a web-based application that reads RSS feeds. I have written var
     - *Check that on a successful feed load, there is at least one entry*.
 
 2. Tests for news feed selection:
-    - *Check thats there's a content change when a different feed is selected.*
+    - *Check that there's a content change when a different feed is selected.*
 
