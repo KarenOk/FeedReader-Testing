@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project is a web-based application that reads RSS feeds. I have written various tes suitess using Jasmine to ensure that everything works as should.
+This project is a web-based application that reads RSS feeds. I have written various test suites using Jasmine to ensure that everything works as should.
 
 ## Getting Started
 
